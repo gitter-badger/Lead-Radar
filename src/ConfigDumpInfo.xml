@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
 	<ConfigVersions>
 		<Metadata name="Catalog.Modules" id="082fc08e-dd77-4134-b389-f1219686fda6" configVersion="b909cecadf072049a5db85c71940659400000000">
 			<Metadata name="Catalog.Modules.Command.Parse" id="59b47365-5926-409b-acba-bff0ed99e0d4"/>
@@ -19,7 +19,7 @@
 		<Metadata name="CommonModule.CommonUse.Module" id="4c96fafd-b8c4-4bf9-8fe0-370e20925ab1.0" configVersion="8c79b4137a22a14fbef37d6392a0fbac00000000"/>
 		<Metadata name="CommonModule.CommonUse_ServerCached" id="1d583df3-ee11-4289-aa04-5575cfddfe9b" configVersion="c49a8b066dfa9c45a7e1366624d8f6f900000000"/>
 		<Metadata name="CommonModule.CommonUse_ServerCached.Module" id="1d583df3-ee11-4289-aa04-5575cfddfe9b.0" configVersion="56fb431686dad6488fef11687df4ec1200000000"/>
-		<Metadata name="CommonModule.CommonUse_ServerCall" id="125cbc11-049f-4e23-a3a8-828576eabb93" configVersion="0591611030f9ad49a73082d52ff4f19c00000000"/>
+		<Metadata name="CommonModule.CommonUse_ServerCall" id="125cbc11-049f-4e23-a3a8-828576eabb93" configVersion="c066cd58aba6a7469af3862b1228e88c00000000"/>
 		<Metadata name="CommonModule.CommonUse_ServerCall.Module" id="125cbc11-049f-4e23-a3a8-828576eabb93.0" configVersion="5bbe85328b532d448e1d10745afa749d00000000"/>
 		<Metadata name="CommonModule.Git" id="5af47382-01d7-47a4-8c05-513d0d6f1651" configVersion="57d9e99a97dfdc42b067e00590ab4c1400000000"/>
 		<Metadata name="CommonModule.Git.Module" id="5af47382-01d7-47a4-8c05-513d0d6f1651.0" configVersion="c843901305d8a743a7aec4786202e8eb00000000"/>
@@ -31,7 +31,7 @@
 		<Metadata name="CommonModule.Jobs.Module" id="d211b7cd-1399-4564-880d-91bd87487edc.0" configVersion="84b487406428964e8447ffeafce1f9c400000000"/>
 		<Metadata name="CommonModule.Jobs_ServerCall" id="4df8b38a-482b-48b1-8438-a7a7376475ee" configVersion="8651e958229c8a48b264ed1e7d0bd85800000000"/>
 		<Metadata name="CommonModule.Jobs_ServerCall.Module" id="4df8b38a-482b-48b1-8438-a7a7376475ee.0" configVersion="ffde179d32b9e445a562480bf3afcfda00000000"/>
-		<Metadata name="Configuration.Radar" id="9fa63b69-ff7e-4334-837f-8ebd77b362fb" configVersion="08050469a48e234c83d8e2d7dd4b0fd500000000"/>
+		<Metadata name="Configuration.Radar" id="9fa63b69-ff7e-4334-837f-8ebd77b362fb" configVersion="450e6904e8a6ec41a15b96a3ad65220e00000000"/>
 		<Metadata name="Constant.ChunkSize" id="ed96ac09-764e-4003-ba7d-5edb924ec7ef" configVersion="158878961de44d43b33cfecb904ee0c000000000"/>
 		<Metadata name="Constant.ExternalDataProcessorsPath" id="06a7e8dc-c92b-49ff-8577-1eb66614d63f" configVersion="5ec8c9fdc7e8cd40b2d9df2e708e6eeb00000000"/>
 		<Metadata name="Constant.MaxJobs" id="df0dbc3c-1499-405e-9e4c-189af2f67c41" configVersion="240c281f1279254b943c9fb5405f9dfc00000000"/>
