@@ -143,6 +143,9 @@
 			<Language>Русский</Language>
 			<Language>English</Language>
 			<Role>Admin</Role>
+			<CommonTemplate>GlobalContextJson</CommonTemplate>
+			<CommonTemplate>SystemEnumsJson</CommonTemplate>
+			<CommonTemplate>TypesJson</CommonTemplate>
 			<CommonModule>CommonUse</CommonModule>
 			<CommonModule>CommonUse_ServerCached</CommonModule>
 			<CommonModule>CommonUse_ServerCall</CommonModule>
@@ -151,6 +154,7 @@
 			<CommonModule>Global</CommonModule>
 			<CommonModule>Jobs</CommonModule>
 			<CommonModule>Jobs_ServerCall</CommonModule>
+			<CommonModule>GlobalContextSystemEnumsTypes_Server</CommonModule>
 			<Constant>ExternalDataProcessorsPath</Constant>
 			<Constant>MaxJobs</Constant>
 			<Constant>ChunkSize</Constant>
